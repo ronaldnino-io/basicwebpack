@@ -2,3 +2,7 @@
 /started/node_modules/**
 /started-file-config/node_modules/**
 /webpack-loaders-css/node_modules/**
+/webpack-loaders-file/node_modules/**
+/webpack-loaders-less/node_modules/**
+/webpack-loaders-sass/node_modules/**
+basicwebpack.code-workspace
